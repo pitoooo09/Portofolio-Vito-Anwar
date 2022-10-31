@@ -1,0 +1,100 @@
+body{
+    background-image: url(bg.jpg);
+}
+header{
+    font-size:xx-large;
+    color: aliceblue;
+    background-color: black;
+    width: auto;
+    text-align: center;
+}
+.potoku{
+    text-align: center;
+}
+img{
+    border: 5px solid black;
+    width: 150px;
+    height: 150px;
+}
+h2{
+    color: white;
+    background-color: black;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.navigasi{
+    background-color: black;
+    width: 460px;
+    text-align: center;
+    margin: auto;
+}
+.navigasi a:hover{
+    color: red;
+}
+#bio{
+    color: white;
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+}
+.biodata{
+    margin: auto;
+    width: 21%;
+}
+h3{
+    color: white;
+    background-color: black;
+    width: 130px;
+    text-align: center;
+    margin: auto;
+}
+.tentang{
+    text-align: center;
+}
+table{
+    margin: auto;   
+}
+.kontak{
+    text-align: center;
+}
+.link{
+    background-color: black;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+}
+h4{
+    color: white;
+    background-color: black;
+    width: 330px;
+    text-align: center;
+    margin: auto; 
+}
+.manggrove{
+    text-align: center;
+}
+#manggrove{
+    border: 5px solid black;
+    width: 300px;
+    height: 200px;
+}
+.video{
+    background-color: black;
+    width: 110px;
+    text-align: center;
+    margin: auto;
+}
+footer{
+    font-size: x-large;
+    color: aliceblue;
+    background-color: black;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+}
